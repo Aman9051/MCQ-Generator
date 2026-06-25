@@ -30,7 +30,7 @@
 ## ✨ Features
 
 - 📄 **File Upload** — PDF (via PyPDF2) and plain TXT support
-- 🤖 **AI-Powered Generation** — LangChain `SequentialChain` with `gpt-3.5-turbo`
+- 🤖 **AI-Powered Generation** — LangChain `SequentialChain` with `gpt-5`
 - 📊 **Structured Output** — JSON responses rendered as a readable pandas table
 - 🧠 **Smart Review** — Second LLM pass evaluates quiz complexity and suggests improvements
 - 💰 **Cost Tracking** — Live token usage + USD cost via `get_openai_callback`
