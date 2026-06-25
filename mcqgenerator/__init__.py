@@ -1,1 +1,0 @@
-# mcqgenerator package
